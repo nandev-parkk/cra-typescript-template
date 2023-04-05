@@ -1,5 +1,6 @@
 {
   "name": "cra-typescript-template",
+  "author": "nandev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +18,8 @@
   "devDependencies": {
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
-    "@types/testing-library__jest-dom": "^5"
+    "@types/testing-library__jest-dom": "^5",
+    "eslint-config-react-app": "^7.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
